@@ -10,4 +10,8 @@ Python 3.x, OpenCV
 2) Ensure the Haar Cascade XML file ("haarcascade_frontalface_default.xml") is in the same directory as the script.
 
 # Usage
-1) Clone the repository or download the FaceRescript.
+1) Clone the repository or download the FaceRecognition.py script along with the Haar Cascade XML file.
+2) Ensure both files are in the same working directory.
+3) Follow on-screen instructions to interact with the program.
+
+Happy face detecting! 📷😊
